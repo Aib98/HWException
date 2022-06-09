@@ -1,6 +1,5 @@
 public class OneException {
     public int number (int a, int b) {
-
         int excep = 0;
         try {
             excep = a/b;
